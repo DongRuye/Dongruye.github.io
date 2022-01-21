@@ -1,0 +1,6 @@
+-- 事务的细节
+INSERT INTO t27 VALUES(300,'milan');
+
+SELECT *FROM t27;
+
+SAVEPOINT a
